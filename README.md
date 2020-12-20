@@ -1,2 +1,2 @@
 # web-scraper
-scraping from websites
+scraping datafrom websites using python 
